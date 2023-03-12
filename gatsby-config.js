@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/footprint_map',
+  pathPrefix: '/',
   siteMetadata: {
     siteTitle: 'Footprint Map',
     siteUrl: 'https://run.mchen.xyz',
