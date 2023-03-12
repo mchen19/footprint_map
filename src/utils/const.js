@@ -1,6 +1,6 @@
 // const
 const MAPBOX_TOKEN =
-    'pk.eyJ1IjoibWNoZW4xOSIsImEiOiJjbGY1Z2ptbmkwNnNnM3lwY2JjNDBxNzh5In0.7HWy5_Fs4A68rgfSr3uN3A';
+    'pk.eyJ1IjoibWNoZW4xOSIsImEiOiJjbGY1aGp1ZHYwbDdhM3FxaHU5OHJrbHd6In0.4UiqqAY9u5gxql3eRpqTow';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -102,7 +102,7 @@ const red = 'rgb(255,0,0)';//大红色
 // If your map has an offset please change this line
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
-export const MAIN_COLOR = green;
+export const MAIN_COLOR = yellow;
 export const RUN_COLOR = yellow;
 export const RIDE_COLOR = green;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
