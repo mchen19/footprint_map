@@ -26,7 +26,7 @@ env:
   TITLE: Workouts
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Workouts # also here
-  GITHUB_NAME: Michael Chen
+  GITHUB_NAME: mchen19
   GITHUB_EMAIL: mchen19@163.com
 
 jobs:
